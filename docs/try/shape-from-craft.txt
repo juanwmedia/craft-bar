@@ -1,0 +1,40 @@
+
+ ▐▛███▛█   Claude Code v2.1.319
+▝▜██████▀  Opus 5.5 with high effort · API Usage Billing
+ ▝▝   ▝▝   ~/code/craft
+
+⚠ Allow rule Bash(grep -o '"D5[^"]*"'
+  /private/tmp/claude-501/-Users-juan-nunez-code/cc8948c8-d867-48a9-8fac-77240d0e741c/tasks/ab006b3f942a85d78.output |
+  head -3; grep -c 'data.json'
+  /private/tmp/claude-501/-Users-juan-nunez-code/cc8948c8-d867-48a9-8fac-77240d0e741c/tasks/ab006b3f942a85d78.output)
+  allows any option at its * · use an exact value
+
+❯ /craft-bar:bar
+  ⎿  craft-bar: The craft bar is on.
+
+❯ /craft:shape bar-try
+
+⏺ Login reached its time limit · Please run /login
+
+✻ Brewed for 0s · done 11:17 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+craft · shape                                                                                                     x [-]
+                                                                                            Not logged in · Run /login
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⚠ Transcript saving is off — inherited CLAUDE_CODE_CHILD_SESSION marker · restart with CLAUDE_CODE_FORCE_SESSION_PE…
+  ╸ craft  master │ Opus 5.5 │ +0 -0 │ $0 │ ░░░░░ 0%
+  -- INSERT -- ⏵⏵ bypass permissions on (shift+tab to cycle)
