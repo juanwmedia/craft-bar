@@ -2,7 +2,7 @@ import type { On } from 'claude-code'
 import { type Engine, type Mounted, expect, mock, test } from 'claude-code/testing'
 
 const PLUGIN = 'craft-bar'
-const CRAFT = 'craft'
+const CRAFT = 'crafting'
 const BAR = 'craft-bar:bar'
 const ROOT = '/repo'
 const WORKS = `${ROOT}/docs/craft`
@@ -21,7 +21,7 @@ const SHAPE = 'shape'
 const PLAN = 'plan'
 const IMPLEMENT = 'implement'
 const PHASES = [SHAPE, PLAN, IMPLEMENT, 'try', 'close']
-const BUILD = 'craft:build'
+const BUILD = 'crafting:build'
 const EVALUATE = 'evaluate'
 const ALPHA = 'alpha'
 const BETA = 'beta'

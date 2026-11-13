@@ -34,7 +34,7 @@ export type State = {
 export const IMPLEMENT = 'implement'
 const EMPTY = ''
 
-const PREFIX = 'craft:'
+const PREFIX = 'crafting:'
 const BUILD = `${PREFIX}build`
 const PHASES = ['shape', 'plan', IMPLEMENT, 'try', 'close']
 const HEADING = '### '

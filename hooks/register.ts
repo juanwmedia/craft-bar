@@ -31,7 +31,7 @@ const DISMISS = 'dismiss'
 const FLAG = ['git', 'config', '--get', 'craft.detached']
 const FLAG_ON = 'true'
 const TICK_MS = 250
-const CRAFT = /^craft:/
+const CRAFT = /^crafting:/
 const STYLES: Record<Tone, TextProps> = {
   label: { dimColor: true },
   slug: { bold: true },
